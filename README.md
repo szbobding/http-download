@@ -1,4 +1,4 @@
 http-download
 =============
 
-download demo with http request implement by socket in c
+download demo use http get implement by socket programmed in cpp.
